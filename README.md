@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeptofharuhism
 - 👀 I’m interested in learning CSharp and making games using Unity
-- 🌱 I’m currently learning mirror basics
+- 🌱 I’m currently learning Unity game building architecture
 - 💞️ I have many things to learn, so no collabs yet
 - 📫 There is no way to reach me nowadays
 
